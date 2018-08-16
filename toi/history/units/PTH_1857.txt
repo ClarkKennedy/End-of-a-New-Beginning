@@ -2,10 +2,10 @@
   name = "Panthay Rebel Line Infantry"
 
   regiments = {
-    line_infantry = { x = 0 y = 0}
-    line_infantry = { x = 1 y = 0}
-    line_infantry = { x = 2 y = 0}
-	line_infantry = { x = 3 y = 0}
+    rebel_infantry = { x = 0 y = 0}
+    rebel_infantry = { x = 1 y = 0}
+    rebel_infantry = { x = 2 y = 0}
+	rebel_infantry = { x = 3 y = 0}
   }
 }
 
@@ -19,68 +19,6 @@ division_template = {
 }
 
 units = {
-		division= {
-			name = "1st Panthay Rebel Line Infantry"
-			location = 4628
-			division_template = "Panthay Rebel Line Infantry"
-			start_experience_factor = 0.1
-		}
-		division= {
-			name = "2nd Panthay Rebel Line Infantry"
-			location = 4628
-			division_template = "Panthay Rebel Line Infantry"
-			start_experience_factor = 0.1
-		}
-		division= {
-			name = "3rd Panthay Rebel Line Infantry"
-			location = 4628
-			division_template = "Panthay Rebel Line Infantry"
-			start_experience_factor = 0.1
-		}
-		division= {
-			name = "4th Panthay Rebel Line Infantry"
-			location = 4628
-			division_template = "Panthay Rebel Line Infantry"
-			start_experience_factor = 0.1
-		}
-
-		division= {
-			name = "5th Panthay Rebel Line Infantry"
-			location = 4628
-			division_template = "Panthay Rebel Line Infantry"
-			start_experience_factor = 0.1
-		}
-		division= {
-			name = "1st Panthay Rebel Line Infantry"
-			location = 4628
-			division_template = "Panthay Rebel Line Infantry"
-			start_experience_factor = 0.1
-		}
-		division= {
-			name = "2nd Panthay Rebel Line Infantry"
-			location = 4628
-			division_template = "Panthay Rebel Line Infantry"
-			start_experience_factor = 0.1
-		}
-		division= {
-			name = "3rd Panthay Rebel Line Infantry"
-			location = 4628
-			division_template = "Panthay Rebel Line Infantry"
-			start_experience_factor = 0.1
-		}
-		division= {
-			name = "4th Panthay Rebel Line Infantry"
-			location = 4628
-			division_template = "Panthay Rebel Line Infantry"
-			start_experience_factor = 0.1
-		}
-
-		division= {
-			name = "5th Panthay Rebel Line Infantry"
-			location = 4628
-			division_template = "Panthay Rebel Line Infantry"
-			start_experience_factor = 0.1
-		}
 		division= {
 			name = "1st Panthay Rebel Line Infantry"
 			location = 4628
