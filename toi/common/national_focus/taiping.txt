@@ -139,22 +139,30 @@ default = no
  prerequisite = { focus = theheavenlykingdom} 
  cost = 10  
   available_if_capitulated = yes  
- completion_reward = { 
+ completion_reward = {
+ PTH = { 
  add_opinion_modifier= {  
- target = PTH  
+ target = TAI 
  modifier = TAI_reaches_out  
  } 
+ }
+ NIE = {
  add_opinion_modifier= {  
- target = NIE  
+ target = TAI 
  modifier = TAI_reaches_out  
  } 
+ }
+ FIX_THIS = {
  add_opinion_modifier= {  
- target = FIX_THIS  
+ target = TAI 
  modifier = TAI_reaches_out  
- } 
+ }
+ }
+ FIX_THIS = { 
  add_opinion_modifier= {  
- target = FIX_THIS  
+ target = TAI  
  modifier = TAI_reaches_out  
+ }
  } 
  } 
  }#Focus for Learn from the Expeditions 
@@ -1275,22 +1283,30 @@ default = no
  prerequisite = { focus = riseofhongrengan} 
  cost = 10  
   available_if_capitulated = yes  
- completion_reward = { 
+ completion_reward = {
+ ENG = { 
  add_opinion_modifier= {  
- target = ENG  
+ target = TAI  
  modifier = TAI_western_tolerance  
- } 
+ }
+ }
+ FRA = { 
  add_opinion_modifier= {  
- target = FRA  
+ target = TAI  
  modifier = TAI_western_tolerance 
  } 
+ }
+ USA = {
  add_opinion_modifier= {  
- target = USA  
+ target = TAI  
  modifier = TAI_western_tolerance  
- } 
+ }
+ }
+ RUS = { 
  add_opinion_modifier= {  
- target = RUS  
+ target = TAI  
  modifier = TAI_western_tolerance  
+ }
  } 
  } 
  }#Focus for Supply our Troops 
