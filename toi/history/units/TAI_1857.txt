@@ -886,4 +886,83 @@ units = {
       division_template = "Taiping Rebel Line Infantry"
       start_experience_factor = 0.1
     }
+    division= {
+      name = "32nd Holy Divison"
+      location = 7086
+      division_template = "Taiping Rebel Line Infantry"
+      start_experience_factor = 0.1
+    }
+    division= {
+      name = "33rd Holy Divison"
+      location = 1066
+      division_template = "Taiping Rebel Line Infantry"
+      start_experience_factor = 0.1
+    }
+    division= {
+      name = "35th Holy Divison"
+      location = 1066
+      division_template = "Taiping Rebel Line Infantry"
+      start_experience_factor = 0.1
+    }
+    division= {
+      name = "34th Holy Divison"
+      location = 3992
+      division_template = "Taiping Rebel Line Infantry"
+      start_experience_factor = 0.1
+    }
+    division= {
+      name = "37th Holy Divison"
+      location = 3992
+      division_template = "Taiping Rebel Line Infantry"
+      start_experience_factor = 0.1
+    }
+    division= {
+      name = "36th Holy Divison"
+      location = 3992
+      division_template = "Taiping Rebel Line Infantry"
+      start_experience_factor = 0.1
+    }
+    division= {
+      name = "39th Holy Divison"
+      location = 1066
+      division_template = "Taiping Rebel Line Infantry"
+      start_experience_factor = 0.1
+    }
+    division= {
+      name = "40th Holy Divison"
+      location = 7035
+      division_template = "Taiping Rebel Line Infantry"
+      start_experience_factor = 0.1
+    }
+    division= {
+      name = "41st Holy Divison"
+      location = 1066
+      division_template = "Taiping Rebel Line Infantry"
+      start_experience_factor = 0.1
+    }
+    division= {
+      name = "42nd Holy Divison"
+      location = 7007
+      division_template = "Taiping Rebel Line Infantry"
+      start_experience_factor = 0.1
+    }
+
+    division= {
+      name = "43rd Holy Divison"
+      location = 7035
+      division_template = "Taiping Rebel Line Infantry"
+      start_experience_factor = 0.1
+    }
+    division= {
+      name = "44th Holy Divison"
+      location = 1066
+      division_template = "Taiping Rebel Line Infantry"
+      start_experience_factor = 0.1
+    }
+    division= {
+      name = "45th Holy Divison"
+      location = 7653
+      division_template = "Taiping Rebel Line Infantry"
+      start_experience_factor = 0.1
+    }
 }
