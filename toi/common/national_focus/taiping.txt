@@ -12,7 +12,7 @@ default = no
 #Focus for The Heavenly Kingdom 
 		focus = { 
 		id = theheavenlykingdom 
-		icon = GFX_goal_unknown 
+		icon = The_Heavenly_Kingdom 
 		ai_will_do = { factor = 1} 
  x =18 
  y =0 
